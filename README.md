@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asharamir&label=Profile%20views&color=0e75b6&style=flat" alt="asharamir" /> </p>
 
-- 👨‍💻 All of my projects are available at [TBD](TBD)
+- 👨‍💻 All of my projects are available at [here]([here](https://github.com/AsharAmir/AsharAmir/blob/main/Ashhar%20Amir%20-%20Resume.pdf))
 
 - 📫 Reach me @ **ashharamir@gmail.com**
 
