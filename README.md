@@ -6,9 +6,8 @@
 - 👨‍💻 All of my projects are available at [here]([here](https://github.com/AsharAmir/AsharAmir/blob/main/Ashhar%20Amir%20-%20Resume.pdf))
 
 - 📫 Reach me @ **ashharamir@gmail.com**
-
-- 📄 View my resume @ [here](([here]https://github.com/AsharAmir/AsharAmir/blob/main/Ashhar%20Amir%20-%20Resume.pdf))
-
+  
+- 📄 View my resume [here](https://github.com/AsharAmir/AsharAmir/blob/main/Ashhar%20Amir%20-%20Resume.pdf)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/asharamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asharamir" height="30" width="40" /></a>
