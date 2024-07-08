@@ -7,7 +7,7 @@
 
 - 📫 Reach me @ **ashharamir@gmail.com**
 
-- 📄 View my resume @ [here]([here](https://github.com/AsharAmir/AsharAmir/blob/main/Ashhar%20Amir%20-%20Resume.pdf))
+- 📄 View my resume @ [here]((https://github.com/AsharAmir/AsharAmir/blob/main/Ashhar%20Amir%20-%20Resume.pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
