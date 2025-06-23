@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashhar Amir,</h1>
-<h3 align="center">A dedicated software developer from Saudi Arabia/Pakistan, proficient in Python, C++, and a wide array of web technologies including web development & web design in HTML, CSS, JavaScript, React, and Node.js.</h3>
+<h3 align="center">A dedicated software developer from Saudi Arabia/Pakistan, proficient in Python, C++, and a wide array of web technologies including web development & web design in JavaScript, React, Node.js.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asharamir&label=Profile%20views&color=0e75b6&style=flat" alt="asharamir" /> </p>
 
