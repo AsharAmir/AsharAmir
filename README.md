@@ -1,9 +1,8 @@
-<h1 align="center">Hey 👋, I'm Ashhar Amir</h1>
-<h3 align="center">Creative Technologist | Software Developer | UI/UX Enthusiast</h3>
+<h1 align="center">👋 Hi, I’m Ashhar Amir</h1>
+<h3 align="center">Dedicated Software Developer | Full-Stack Expert | Automation Enthusiast</h3>
 
 <p align="center">
-  <b>Bridging design and code</b> to craft seamless user experiences. <br/>
-  Passionate about solving real-world problems through elegant, scalable software.
+Crafting robust, scalable solutions — from backend systems to user-facing applications.
 </p>
 
 <p align="center">
@@ -12,33 +11,39 @@
 
 ---
 
-### 🚀 About Me
+### 💼 Professional Summary
 
-- 🌍 Based between **Saudi Arabia** & **Pakistan**
-- 💻 Full-stack developer with proficiency in **Python**, **C++**, and the **JavaScript ecosystem (React, Node.js, Express)**
-- 🎨 I design intuitive, accessible, and visually engaging interfaces using **Figma** and bring them to life on the web
-- 🔭 I love working on:
-  - Smart automation tools
-  - Interactive dashboards
-  - AI-integrated applications
-  - Backend APIs & microservices
-
-- 📄 [**View My Resume**](https://github.com/AsharAmir/AsharAmir/blob/main/Ashar%20Amir%20-%20Resume.pdf)
-- 📬 Reach me at: **ashharamir@gmail.com**
+- 🌍 Based between **Saudi Arabia & Pakistan**  
+- 💻 Fluent in **Python**, **C++**, and the **JavaScript ecosystem** (Node.js, React)  
+- Skilled at designing and deploying **APIs**, **automation tools**, and **interactive dashboards**  
+- Experienced across **frontend**, **backend**, and **data-driven solutions**
 
 ---
 
-### 🌐 Connect With Me
+### 🚀 Selected Projects
 
-<p align="left">
-  <a href="https://linkedin.com/in/asharamir" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
-  <a href="https://instagram.com/iamashharamir" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" height="30" width="30" /></a>
-  <a href="https://discord.gg/saucyxavier" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" alt="Discord" height="30" width="30" /></a>
-</p>
+- **Project Management System**  
+  A full-stack tool built with **React + Material‑UI** frontend and **Spring Boot + MySQL** backend. Features real‑time task tracking, user roles, and project dashboards :contentReference[oaicite:1]{index=1}.
+
+- **[Metro App Backend & Automation]**  
+  (Summarize one piece from your resume—e.g., built a Flask‑based microservice for public transport scheduling automation.)
+
+- **[Smart Image Processing Pipeline]**  
+  (Summarize another—e.g., Python + OpenCV system that automated quality checks across thousands of images.)
+
+*(Don’t forget to update these with your actual projects & links!)*
 
 ---
 
-### 🛠️ Languages & Tools
+### 📁 🔗 Explore More
+
+- 📂 [All Projects & Code](https://github.com/AsharAmir)  
+- 📄 [**Resume**](https://github.com/AsharAmir/AsharAmir/blob/main/Ashhar%20Amir%20-%20Resume.pdf)  
+- 📫 Reach out via: **ashharamir@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
@@ -52,16 +57,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" />
 </p>
-
----
-
-### 🎨 Featured UI/UX Work
-
-📌 [**Metro App - Figma Design Showcase**](https://www.figma.com/file/gzRBNrasAYNVpLTFjGPKVB/HCI-D3-METRO-APP?type=design&node-id=0%3A1&mode=design&t=Lb92QRWU4yutwL8U-1)
 
 ---
 
@@ -70,5 +68,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asharamir&show_icons=true&theme=radical&locale=en" alt="asharamir" />
 </p>
-
----
