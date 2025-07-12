@@ -20,21 +20,6 @@ Crafting robust, scalable solutions — from backend systems to user-facing appl
 
 ---
 
-### 🚀 Selected Projects
-
-- **Project Management System**  
-  A full-stack tool built with **React + Material‑UI** frontend and **Spring Boot + MySQL** backend. Features real‑time task tracking, user roles, and project dashboards :contentReference[oaicite:1]{index=1}.
-
-- **[Metro App Backend & Automation]**  
-  (Summarize one piece from your resume—e.g., built a Flask‑based microservice for public transport scheduling automation.)
-
-- **[Smart Image Processing Pipeline]**  
-  (Summarize another—e.g., Python + OpenCV system that automated quality checks across thousands of images.)
-
-*(Don’t forget to update these with your actual projects & links!)*
-
----
-
 ### 📁 🔗 Explore More
 
 - 📂 [All Projects & Code](https://github.com/AsharAmir)  
